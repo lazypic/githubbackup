@@ -1,4 +1,4 @@
-# Githubbackup
+# Github backup
 Github backup for Lazypic repositorys.
 
 - Lazypic 리스크 관리 프로젝트 입니다.
