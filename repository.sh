@@ -54,7 +54,7 @@ git clone https://github.com/lazypic/osl
 git clone https://github.com/lazypic/img2svg
 git clone https://github.com/lazypic/storynode
 git clone https://github.com/lazypic/jpg2pdf
-vgit clone https://github.com/lazypic/upload
+git clone https://github.com/lazypic/upload
 git clone https://github.com/lazypic/download
 git clone https://github.com/lazypic/bmpcc
 git clone https://github.com/lazypic/wifiart
