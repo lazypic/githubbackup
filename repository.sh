@@ -77,4 +77,4 @@ git clone https://github.com/75mm-studio/web
 git clone https://github.com/75mm-studio/osnet-pricing
 git clone https://github.com/75mm-studio/onset-estimate
 git clone https://github.com/75mm-studio/iomanager
-git clone https://github.com/75mm-studio/security
+git clone https://github.com/75mm-studio/security 75mm-security
