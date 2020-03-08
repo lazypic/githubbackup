@@ -2,6 +2,7 @@ git clone https://github.com/lazypic/web
 git clone https://github.com/lazypic/kalena
 git clone https://github.com/lazypic/init
 git clone https://github.com/lazypic/mim
+git clone https://github.com/lazypic/ir
 git clone https://github.com/lazypic/githubbackup
 git clone https://github.com/lazypic/OpenPipelineIO
 git clone https://github.com/lazypic/security
